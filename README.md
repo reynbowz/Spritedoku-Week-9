@@ -119,12 +119,14 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Arcanine (Gen IV)
 <br>⦁	Poliwag/Poliwhirl/Poliwrath/Politoed (Gen VI)
 <br>⦁	Machop/Machoke/Machamp (Gen IV)
+<br>⦁	Tentacool/Tentacruel (Gen III)
+<br>⦁	Geodude/Graveler/Golem (Gen IV)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
 ## Pory Questionnare answers
 1. Do Ash's Pokemon have to be currently under his ownership, or is it just any pokemon he's ever had, no matter how briefly? 
-> The pkmn must have battled under Ash's name or been caught in a pokeball by Ash
+> The pkmn must have battled under Ash's name or been caught in a pokeball by Ash. Releasing/trading away does not disqualify
 2. What about previously evolved forms? ex: he had a Charmander/Charmeleon but it evolved to Charizard 
 > Y - the pre-evolved stages of pkmn that evolved under his care count as well as the current stages
 3. What about his own pkmn's pre-evolved forms that he didn't own? ex: Ash met Primeape as a Mankey, but it evolved into Primeape before he caught it.
@@ -149,3 +151,5 @@ examples that aren't water- or ice-type in the games:
 > N - He doesn't own them
 13. How about the Raticate Ash traded his Butterfree for? Didn’t catch himself in the wild, didn’t use it for battle, traded back immediately
 > Y: It was his briefly and officially, so yes
+14. You mentioned they have to have been caught by Ash or used in a battle but you also said neither is necessary if the mon was "officially" his at some point, however briefly (like with Raticate).  Ash hatched a Larvitar egg but never caught with a ball and never used in battle, Does it count?
+> Y: By game's standards, Larvitar had his OT so it counts
