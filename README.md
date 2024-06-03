@@ -118,6 +118,7 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Mankey/Primeape (Gen IV)
 <br>⦁	Arcanine (Gen IV)
 <br>⦁	Poliwag/Poliwhirl/Poliwrath/Politoed (Gen VI)
+<br>⦁	Machop/Machoke/Machamp (Gen IV)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
