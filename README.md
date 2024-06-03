@@ -114,6 +114,8 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Paras/Parasect (Gen III)
 <br>⦁	NidoranF/Nidorina/Nidoqueen (Gen VI)
 <br>⦁	NidoranM/Nidorino/Nidoking (Gen VI)
+<br>⦁	Psyduck/Golduck (Gen VI)
+<br>⦁	Mankey/Primeape (Gen IV)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
