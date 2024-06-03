@@ -1,7 +1,8 @@
-###Spritedoku Week 9 Prompt Eligibles
+# Spritedoku Week 9 Prompt Eligibles
 
-Intimidate
-<br>⦁	Ekans/Arbok
+## Columns
+### Intimidate
+⦁	Ekans/Arbok
 <br>⦁	Growlithe/Arcanine
 <br>⦁	Tauros
 <br>⦁	Gyarados
@@ -14,126 +15,130 @@ Intimidate
 <br>⦁	Shinx/Luxio/Luxray
 <br>⦁	Sandile/Krokorok/Krookodile
 
-Ho-oh
+### Ho-oh
 ⦁	Ho-oh
 
-Mineral Egg Group
+### Mineral Egg Group
 ⦁	Geodude/Graveler/Golem
-⦁	Magnemite/Magneton/Magnezone
-⦁	Onix/Steelix
-⦁	Voltorb/Electrode
-⦁	Porygon/Porygon2/PorygonZ
-⦁	Sudowoodo
-⦁	Shedinja
-⦁	Nosepass/Probopass
-⦁	Snorunt/Glalie/Froslass
-⦁	Beldum/Metang/Metagross
-⦁	Yamask/Cofagrigus
-⦁	Trubbish/Garbodor
-⦁	Ferroseed/Ferrothorn
-⦁	Klink/Klang/Klinklang
-⦁	Golett/Golurk
-⦁	Honedge/Doublade/Aegislash
-⦁	Klefki
-⦁	Dhelmise
+<br>⦁	Magnemite/Magneton/Magnezone
+<br>⦁	Onix/Steelix
+<br>⦁	Voltorb/Electrode
+<br>⦁	Porygon/Porygon2/PorygonZ
+<br>⦁	Sudowoodo
+<br>⦁	Shedinja
+<br>⦁	Nosepass/Probopass
+<br>⦁	Snorunt/Glalie/Froslass
+<br>⦁	Beldum/Metang/Metagross
+<br>⦁	Yamask/Cofagrigus
+<br>⦁	Trubbish/Garbodor
+<br>⦁	Ferroseed/Ferrothorn
+<br>⦁	Klink/Klang/Klinklang
+<br>⦁	Golett/Golurk
+<br>⦁	Honedge/Doublade/Aegislash
+<br>⦁	Klefki
+<br>⦁	Dhelmise
 
-Water TCG
+## Rows
+### Water TCG
 examples that aren't water- or ice-type in the games:
-⦁	Pikachu?
-⦁	Oddish/Bellossom (NOT Gloom)
-⦁	Ditto?
-⦁	Mew
-⦁	Togepi/Togetic
-⦁	Lugia
-⦁	Swablu/Altaria
-⦁	Bagon/Shelgon/Salamence
-⦁	Latios
-⦁	Rotom?
-⦁	Garchomp
-⦁	Arceus
-⦁	Mimikyu
-Ask: does Rotom count (Frost Rotom card)? Does Ditto count? Boss and Pikachu?
-Note: Pory does not allow regionals but allows deltas
-Rotom forms count
-Multi-mon cards count if all mons contribute to the type (ex: legendary birds card); don't count with double mon cards usually (ex: Raikou/Entei) because each mon contributes a separate type
+<br>⦁	Pikachu?
+<br>⦁	Oddish/Bellossom (NOT Gloom)
+<br>⦁	Ditto?
+<br>⦁	Mew
+<br>⦁	Togepi/Togetic
+<br>⦁	Lugia
+<br>⦁	Swablu/Altaria
+<br>⦁	Bagon/Shelgon/Salamence
+<br>⦁	Latios
+<br>⦁	Rotom?
+<br>⦁	Garchomp
+<br>⦁	Arceus
+<br>⦁	Mimikyu
+<br>**Ask:** 
+<br>Does Ditto count? Boss and Pikachu?
+<br>**Note:** 
+<br>⦁	Pory does not allow regional forms but allows delta forms and Rotom forms
+<br>⦁	Multi-mon cards count if all mons contribute to the type (ex: legendary birds card); don't count with double mon cards usually (ex: Raikou/Entei) because each mon contributes a separate type
 
 
-Ash's Pokemon 
+## Ash's Pokemon 
 (see Pory Questionnaire*)
-⦁	Bulbasaur 
-⦁	Charmander/Charmeleon/Charizard 
-⦁	Squirtle 
-⦁	Pikachu 
-⦁	Caterpie/Metapod/Butterfree 
-⦁	Beedrill
-⦁	Raticate (very briefly)
-⦁	Pidgey/Pidgeotto/Pidgeot
-⦁	Mankey/Primeape
-⦁	Mr. Mime 
-⦁	Haunter/Gengar
-⦁	Lapras 
-⦁	Muk 
-⦁	Tauros 
-⦁	Seaking
-⦁	Snorlax 
-⦁	Krabby/Kingler 
-⦁	Chikorita/Bayleef 
-⦁	Cyndaquil/Quilava 
-⦁	Totodile 
-⦁	Noctowl 
-⦁	Donphan 
-⦁	Aipom (pre-trade) 
-⦁	Heracross
-⦁	Gligar/Gliscor 
-⦁	Larvitar 
-⦁	Treecko/Grovyle/Sceptile 
-⦁	Snorunt/Glalie 
-⦁	Chimchar/Monferno/Infernape 
-⦁	Gible 
-⦁	Buizel 
-⦁	Turtwig/Grotle/Torterra 
-⦁	Krokorok/Krokodile
-⦁	Goomy/Sliggoo/Goodra 
-⦁	Noivern 
-⦁	Hawlucha 
-⦁	Talonflame 
-⦁	Lycanoroc 
-⦁	Lucario 
-⦁	Dragonite 
-⦁	Rotom (phone)
+<br>⦁	Bulbasaur 
+<br>⦁	Charmander/Charmeleon/Charizard 
+<br>⦁	Squirtle 
+<br>⦁	Pikachu 
+<br>⦁	Caterpie/Metapod/Butterfree 
+<br>⦁	Beedrill
+<br>⦁	Raticate (very briefly)
+<br>⦁	Pidgey/Pidgeotto/Pidgeot
+<br>⦁	Mankey/Primeape
+<br>⦁	Mr. Mime 
+<br>⦁	Haunter/Gengar
+<br>⦁	Lapras 
+<br>⦁	Muk 
+<br>⦁	Tauros 
+<br>⦁	Seaking
+<br>⦁	Snorlax 
+<br>⦁	Krabby/Kingler 
+<br>⦁	Chikorita/Bayleef 
+<br>⦁	Cyndaquil/Quilava 
+<br>⦁	Totodile 
+<br>⦁	Noctowl 
+<br>⦁	Donphan 
+<br>⦁	Aipom (pre-trade) 
+<br>⦁	Heracross
+<br>⦁	Gligar/Gliscor 
+<br>⦁	Larvitar 
+<br>⦁	Treecko/Grovyle/Sceptile 
+<br>⦁	Snorunt/Glalie 
+<br>⦁	Chimchar/Monferno/Infernape 
+<br>⦁	Gible 
+<br>⦁	Buizel 
+<br>⦁	Turtwig/Grotle/Torterra 
+<br>⦁	Krokorok/Krokodile
+<br>⦁	Goomy/Sliggoo/Goodra 
+<br>⦁	Noivern 
+<br>⦁	Hawlucha 
+<br>⦁	Talonflame 
+<br>⦁	Lycanoroc 
+<br>⦁	Lucario 
+<br>⦁	Dragonite 
+<br>⦁	Rotom (phone)
 
-Can learn 3 or more HMs
-⦁	Bulbasaur/Ivysaur/Venusaur (Gen VI)
-⦁	Charmander/Charmeleon/Charizard (Gen VI)
-⦁	Squirtle/Wartortle/Blastoise (Gen VI)
-⦁	Raticate (Gen VI)
-⦁	Pikachu/Raichu (Gen III)
-⦁	Sandshrew/Sandslash (Gen VI)
-⦁	Nidoqueen
-⦁	Nidoking
-⦁	Girafarig (Gen III)
-⦁	Tyranitar (Gen VI)
+### Can learn 3 or more HMs
+<br>⦁	Bulbasaur/Ivysaur/Venusaur (Gen VI)
+<br>⦁	Charmander/Charmeleon/Charizard (Gen VI)
+<br>⦁	Squirtle/Wartortle/Blastoise (Gen VI)
+<br>⦁	Raticate (Gen VI)
+<br>⦁	Pikachu/Raichu (Gen III)
+<br>⦁	Sandshrew/Sandslash (Gen VI)
+<br>⦁	Nidoqueen
+<br>⦁	Nidoking
+<br>⦁	Girafarig (Gen III)
+<br>⦁	Tyranitar (Gen VI)
 
 Pory Questionnare answers
 1. Do Ash's Pokemon have to be currently under his ownership, or is it just any pokemon he's ever had, no matter how briefly? 
-The pkmn must have battled under Ash's name or been caught in a pokeball by Ash
+<br>**Pory: The pkmn must have battled under Ash's name or been caught in a pokeball by Ash**
 2. What about previously evolved forms? ex: he had a Charmander/Charmeleon but it evolved to Charizard 
-Y: pkmn 
+<br>**Y: the pre-evolved stages of pkmn that evolved under his care count as well as the current stages** 
 3. What about his own pkmn's pre-evolved forms that he didn't own? ex: Ash met Primeape as a Mankey, but it evolved into Primeape before he caught it.
-Y: If Ash met the pkmn and it evolved before being caught by him, the evo stage Ash met the pkmn in counts too
+<br>**Y: If Ash met the pkmn and it evolved before being caught by him, the evo stage Ash met the pkmn in counts too**
 4. What about cases like Ambipom, which Ash caught as an Aipom but then traded to Dawn, and only evolved to Ambipom under Dawn's care? 
-N: It evolved when it was no longer his
+<br>**N: It evolved when it was no longer his**
 5. Does Ash's Rotom phone count? 
-Y: Rule of funny
+<br>**Y: Rule of funny**
 6. Does Mimey count? 
-N: It's not his, and doesn't even obey him
+<br>**N: It's not his, and doesn't even obey him**
 7. How about companions of Ash that he never officially caught? 
-M: He needs to have used them in battle
+<br>**M: He needs to have used them in battle**
 8. Pokemon caught for a contest and then released under contest rules? 
-Y: He did catch it, so sure
+<br>**Y: He did catch it, so sure**
 9. Do Ride pokemon Ash has used in Alola count? 
-N: Ride pkmn aren't owned by the player
+<br>**N: Ride pkmn aren't owned by the player**
 10. Do pkmn formally lent to Ash for battle count? ex: The Pokémon League entrance exam 
-N: They aren't his, they are rentals
-11. Do pkmn formally lent to Ash for a non-battle contest count? N
-12. Do pkmn Ash informally borrowed count? N: He doesn't own them
+<br>**N: They aren't his, they are rentals**
+11. Do pkmn formally lent to Ash for a non-battle contest count? 
+<br>**N**
+12. Do pkmn Ash informally borrowed count?
+<br>**N: He doesn't own them**
