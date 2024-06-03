@@ -41,9 +41,9 @@
 ## Rows
 ### Water TCG
 examples that aren't water- or ice-type in the games:
-<br>⦁	Pikachu?
+<br>⦁	Pikachu*
 <br>⦁	Oddish/Bellossom (NOT Gloom)
-<br>⦁	Ditto?
+<br>⦁	Ditto
 <br>⦁	Mew
 <br>⦁	Togepi/Togetic
 <br>⦁	Lugia
@@ -54,14 +54,14 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Garchomp
 <br>⦁	Arceus
 <br>⦁	Mimikyu
-<br>**Ask:** 
-<br>Does Ditto count? Boss and Pikachu?
 <br>**Note:** 
 <br>⦁	Pory does not allow regional forms but allows delta forms and Rotom forms
-<br>⦁	Multi-mon cards count if all mons contribute to the type (ex: legendary birds card); don't count with double mon cards usually (ex: Raikou/Entei) because each mon contributes a separate type
+<br>⦁	Pory allows transformed Ditto cards
+<br>⦁	Multi-mon cards count if all mons contribute to the type (ex: legendary birds card), but usually don't count with double mon cards (ex: Raikou/Entei) because each mon contributes a separate type
+<br>⦁	*Unreleased Boss and Pikachu promo card counts due to Rule of Funny
 
 ### Ash's Pokemon 
-(see Pory Questionnaire*)
+(see Pory Questionnaire at bottom)
 <br>⦁	Bulbasaur 
 <br>⦁	Charmander/Charmeleon/Charizard 
 <br>⦁	Squirtle 
