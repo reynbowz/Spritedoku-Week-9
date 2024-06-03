@@ -125,6 +125,8 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Farfetch'd (Gen IV)
 <br>⦁	Seel/Dewgong (Gen VI)
 <br>⦁	Onix/Steelix (Gen IV)
+<br>⦁	Krabby/Kingler (Gen VI)
+<br>⦁	Cubone/Marowak (Gen IV)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
