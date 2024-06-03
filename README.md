@@ -121,6 +121,10 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Machop/Machoke/Machamp (Gen IV)
 <br>⦁	Tentacool/Tentacruel (Gen III)
 <br>⦁	Geodude/Graveler/Golem (Gen IV)
+<br>⦁	Slowpoke/Slowbro/Slowking (Gen VI)
+<br>⦁	Farfetch'd (Gen IV)
+<br>⦁	Seel/Dewgong (Gen VI)
+<br>⦁	Onix/Steelix (Gen IV)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
