@@ -118,26 +118,28 @@ examples that aren't water- or ice-type in the games:
 
 ## Pory Questionnare answers
 1. Do Ash's Pokemon have to be currently under his ownership, or is it just any pokemon he's ever had, no matter how briefly? 
-<br>**Pory: The pkmn must have battled under Ash's name or been caught in a pokeball by Ash**
+> The pkmn must have battled under Ash's name or been caught in a pokeball by Ash
 2. What about previously evolved forms? ex: he had a Charmander/Charmeleon but it evolved to Charizard 
-<br>**Pory: Y - the pre-evolved stages of pkmn that evolved under his care count as well as the current stages** 
+> Y - the pre-evolved stages of pkmn that evolved under his care count as well as the current stages
 3. What about his own pkmn's pre-evolved forms that he didn't own? ex: Ash met Primeape as a Mankey, but it evolved into Primeape before he caught it.
-<br>**Pory: Y - If Ash met the pkmn and it evolved before being caught by him, the evo stage Ash met the pkmn in counts too**
+> Y - If Ash met the pkmn and it evolved before being caught by him, the evo stage Ash met the pkmn in counts too
 4. What about cases like Ambipom, which Ash caught as an Aipom but then traded to Dawn, and only evolved to Ambipom under Dawn's care? 
-<br>**Pory: N - It evolved when it was no longer his**
+> N - It evolved when it was no longer his
 5. Does Ash's Rotom phone count? 
-<br>**Pory: Y - Rule of funny**
+> Y - Rule of funny
 6. Does Mimey count? 
-<br>**Pory: N - It's not his, and doesn't even obey him**
+> N - It's not his, and doesn't even obey him
 7. How about companions of Ash that he never officially caught? 
-<br>**Pory: M - He needs to have used them in battle**
+> M - He needs to have used them in battle
 8. Pokemon caught for a contest and then released under contest rules? 
-<br>**Pory: Y - He did catch it, so sure**
+> Y - He did catch it, so sure
 9. Do Ride pokemon Ash has used in Alola count? 
-<br>**Pory: N - Ride pkmn aren't owned by the player**
+> N - Ride pkmn aren't owned by the player
 10. Do pkmn formally lent to Ash for battle count? ex: The Pokémon League entrance exam 
-<br>**Pory: N - They aren't his, they are rentals**
+> N - They aren't his, they are rentals**
 11. Do pkmn formally lent to Ash for a non-battle contest count? 
-<br>**Pory: N**
+> N
 12. Do pkmn Ash informally borrowed count?
-<br>**Pory: N - He doesn't own them**
+> N - He doesn't own them
+13. How about the Raticate Ash traded his Butterfree for? Didn’t catch himself in the wild, didn’t use it for battle, traded back immediately
+> Y: It was his briefly and officially, so yes
