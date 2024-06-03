@@ -50,7 +50,7 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Swablu/Altaria
 <br>⦁	Bagon/Shelgon/Salamence
 <br>⦁	Latios
-<br>⦁	Rotom?
+<br>⦁	Rotom
 <br>⦁	Garchomp
 <br>⦁	Arceus
 <br>⦁	Mimikyu
