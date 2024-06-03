@@ -60,8 +60,7 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Pory does not allow regional forms but allows delta forms and Rotom forms
 <br>⦁	Multi-mon cards count if all mons contribute to the type (ex: legendary birds card); don't count with double mon cards usually (ex: Raikou/Entei) because each mon contributes a separate type
 
-
-## Ash's Pokemon 
+### Ash's Pokemon 
 (see Pory Questionnaire*)
 <br>⦁	Bulbasaur 
 <br>⦁	Charmander/Charmeleon/Charizard 
@@ -117,7 +116,7 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
-Pory Questionnare answers
+## Pory Questionnare answers
 1. Do Ash's Pokemon have to be currently under his ownership, or is it just any pokemon he's ever had, no matter how briefly? 
 <br>**Pory: The pkmn must have battled under Ash's name or been caught in a pokeball by Ash**
 2. What about previously evolved forms? ex: he had a Charmander/Charmeleon but it evolved to Charizard 
