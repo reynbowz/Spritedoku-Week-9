@@ -105,7 +105,8 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Rotom (phone)
 
 ### Can learn 3 or more HMs
-⦁	Bulbasaur/Ivysaur/Venusaur (Gen VI)
+_Note: only checked gens III/IV/VI_
+<br>⦁	Bulbasaur/Ivysaur/Venusaur (Gen VI)
 <br>⦁	Charmander/Charmeleon/Charizard (Gen VI)
 <br>⦁	Squirtle/Wartortle/Blastoise (Gen VI)
 <br>⦁	Raticate (Gen VI)
@@ -136,8 +137,18 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Horsea/Seadra/Kingdra (Gen VI)
 <br>⦁	Goldeen/Seaking (Gen VI)
 <br>⦁	Staryu/Starmie (Gen VI)
+<br>⦁	Scyther/Scizor (Gen IV)
+<br>⦁	Electabuzz/Electivire (Gen IV)
+<br>⦁	Magmar/Magmortar (Gen IV)
+<br>⦁	Pinsir (Gen VI)
+<br>⦁	Tauros (Gen VI)
+<br>⦁	Gyarados (Gen VI)
+<br>⦁	Lapras (Gen VI)
+<br>⦁	Vaporeon (Gen VI)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
+
+*not done adding mons to HM list
 
 ## Pory Questionnare answers
 1. Do Ash's Pokemon have to be currently under his ownership, or is it just any pokemon he's ever had, no matter how briefly? 
