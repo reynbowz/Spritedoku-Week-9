@@ -85,29 +85,30 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Tauros 
 <br>⦁	Lapras 
 <br>⦁	Snorlax 
+<br>⦁	Dragonite 
 <br>⦁	Chikorita/Bayleef 
 <br>⦁	Cyndaquil/Quilava 
 <br>⦁	Totodile 
+<br>⦁	Sentret (manga)
 <br>⦁	Noctowl 
-<br>⦁	Donphan 
 <br>⦁	Aipom (pre-trade) 
-<br>⦁	Heracross
 <br>⦁	Gligar/Gliscor 
+<br>⦁	Heracross
+<br>⦁	Donphan 
 <br>⦁	Larvitar 
 <br>⦁	Treecko/Grovyle/Sceptile 
 <br>⦁	Snorunt/Glalie 
-<br>⦁	Chimchar/Monferno/Infernape 
-<br>⦁	Gible 
 <br>⦁	Turtwig/Grotle/Torterra 
-<br>⦁	Krokorok/Krokodile
-<br>⦁	Goomy/Sliggoo/Goodra 
-<br>⦁	Noivern 
-<br>⦁	Hawlucha 
-<br>⦁	Talonflame 
-<br>⦁	Lycanoroc 
-<br>⦁	Lucario 
-<br>⦁	Dragonite 
+<br>⦁	Chimchar/Monferno/Infernape 
+<br>⦁	Riolu/Lucario 
+<br>⦁	Gible 
 <br>⦁	Rotom (phone)
+<br>⦁	Krokorok/Krokodile
+<br>⦁	Fletchling/Fletchinder/Talonflame 
+<br>⦁	Hawlucha 
+<br>⦁	Goomy/Sliggoo/Goodra 
+<br>⦁	Noibat/Noivern 
+<br>⦁	Rockruff/Lycanoroc 
 
 ### Can learn 3 or more HMs
 _Note: only checked gens III/IV/VI_
@@ -184,3 +185,6 @@ _Note: only checked gens III/IV/VI_
 > Y: It was his briefly and officially, so yes
 14. You mentioned they have to have been caught by Ash or used in a battle but you also said neither is necessary if the mon was "officially" his at some point, however briefly (like with Raticate).  Ash hatched a Larvitar egg but never caught with a ball and never used in battle, Does it count?
 > Y: By game's standards, Larvitar had his OT so it counts
+15. Do manga exclusives count? ex: Ash's Fearow
+16. Does the newspaper strip count? In it, he has a Clefairy.
+17. If yes to above: does Starmie count? He caught Misty's Starmie in a pokeball by mistake (which is apparently possible in the newspaper strip???)
