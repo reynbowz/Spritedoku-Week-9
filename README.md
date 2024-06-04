@@ -68,17 +68,23 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Pikachu 
 <br>⦁	Caterpie/Metapod/Butterfree 
 <br>⦁	Beedrill
-<br>⦁	Raticate (very briefly)
 <br>⦁	Pidgey/Pidgeotto/Pidgeot
+<br>⦁	Raticate (very briefly)
+<br>⦁	Fearow (manga)
+<br>⦁	Ekans (manga)
+<br>⦁	Pikachu (duh)
+<br>⦁	Clefairy (newspaper strip)
+<br>⦁	Oddish (manga)
 <br>⦁	Mankey/Primeape
-<br>⦁	Mr. Mime 
-<br>⦁	Haunter/Gengar
-<br>⦁	Lapras 
+<br>⦁	Slowpoke (manga)
+<br>⦁	Farfetch'd
 <br>⦁	Muk 
-<br>⦁	Tauros 
-<br>⦁	Seaking
-<br>⦁	Snorlax 
+<br>⦁	Haunter/Gengar
 <br>⦁	Krabby/Kingler 
+<br>⦁	Seaking
+<br>⦁	Tauros 
+<br>⦁	Lapras 
+<br>⦁	Snorlax 
 <br>⦁	Chikorita/Bayleef 
 <br>⦁	Cyndaquil/Quilava 
 <br>⦁	Totodile 
@@ -92,7 +98,6 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Snorunt/Glalie 
 <br>⦁	Chimchar/Monferno/Infernape 
 <br>⦁	Gible 
-<br>⦁	Buizel 
 <br>⦁	Turtwig/Grotle/Torterra 
 <br>⦁	Krokorok/Krokodile
 <br>⦁	Goomy/Sliggoo/Goodra 
