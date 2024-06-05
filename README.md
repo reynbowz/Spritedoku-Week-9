@@ -186,5 +186,8 @@ _Note: only checked gens III/IV/VI_
 14. You mentioned they have to have been caught by Ash or used in a battle but you also said neither is necessary if the mon was "officially" his at some point, however briefly (like with Raticate).  Ash hatched a Larvitar egg but never caught with a ball and never used in battle, Does it count?
 > Y: By game's standards, Larvitar had his OT so it counts
 15. Do manga exclusives count? ex: Ash's Fearow
+> Y: If it's Ash and not Red
 16. Does the newspaper strip count? In it, he has a Clefairy.
+> Y: Sure, why not
 17. If yes to above: does Starmie count? He caught Misty's Starmie in a pokeball by mistake (which is apparently possible in the newspaper strip???)
+> N: That's theft, you want to support that?
