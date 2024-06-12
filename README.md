@@ -111,7 +111,7 @@ examples that aren't water- or ice-type in the games:
 <br>⦁	Rockruff/Lycanoroc 
 
 ### Can learn 3 or more HMs
-_Note: only checked gens III/IV/VI_
+_Note: only checked Gen III/IV/VI learnsets_
 <br>⦁	Bulbasaur/Ivysaur/Venusaur (Gen VI)
 <br>⦁	Charmander/Charmeleon/Charizard (Gen VI)
 <br>⦁	Squirtle/Wartortle/Blastoise (Gen VI)
