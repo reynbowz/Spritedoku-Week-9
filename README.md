@@ -151,6 +151,10 @@ _Note: only checked Gen III/IV/VI learnsets_
 <br>⦁	Gyarados (Gen VI)
 <br>⦁	Lapras (Gen VI)
 <br>⦁	Vaporeon (Gen VI)
+<br>⦁	Omanyte/Omastar (Gen VI)
+<br>⦁	Kabuto/Kabutops (Gen VI)
+<br>⦁	Aerodactyl (Gen VI)
+<br>⦁	Munchlax/Snorlax  (Gen VI)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
