@@ -155,6 +155,10 @@ _Note: only checked Gen III/IV/VI learnsets_
 <br>⦁	Kabuto/Kabutops (Gen VI)
 <br>⦁	Aerodactyl (Gen VI)
 <br>⦁	Munchlax/Snorlax  (Gen VI)
+<br>⦁	Articuno/Zapdos/Moltres (Gen IV)
+<br>⦁	Dratini/Dragonair/Dragonite (Gen IV)
+<br>⦁	Mewtwo/Mew (Gen VI)
+<br>⦁	Bayleef/Meganium (Gen VI)
 <br>⦁	Girafarig (Gen III)
 <br>⦁	Tyranitar (Gen VI)
 
